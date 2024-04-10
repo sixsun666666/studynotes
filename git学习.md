@@ -25,3 +25,68 @@
 >
 > ![image-20240409165003201](C:\Users\64254\AppData\Roaming\Typora\typora-user-images\image-20240409165003201.png)
 
+### linux
+
+> ls -a 显示隐藏文件
+>
+> ![image-20240409212727066](C:\Users\64254\AppData\Roaming\Typora\typora-user-images\image-20240409212727066.png)
+>
+> cd -:回到最近上一次所处的目录
+>
+> cd ~:回到根目录
+
+#### cp
+
+> ![image-20240409234603728](C:\Users\64254\AppData\Roaming\Typora\typora-user-images\image-20240409234603728.png)
+>
+> cp默认只能拷贝普通文件
+>
+> 拷贝文件夹的话 -r
+>
+> -rf:强制拷贝
+
+#### mv
+
+> 剪切命令
+>
+> 重命名:mv 文件名 新文件名
+
+#### cat
+
+> 打印文件内容
+
+#### 管道
+
+#### find which whereis
+
+#### grep
+
+> -v 不包含关键字的打印出来
+>
+> -i  忽略大小写
+>
+> -n 把行号打印出来
+
+#### top
+
+> 任务管理器
+
+#### sort(排序)/uniq(去重)/wc(统计行数)/which(查看指令路径)/whereis(搜索包含关键字的文档)/alias(起别名)
+
+#### tar
+
+> 压缩的时候czf
+>
+> 解压缩的时候xzf
+
+#### unzip
+
+> -d 解压到指定目录
+
+#### 权限
+
+> 文件类型和文件权限
+>
+> ![image-20240410204751206](C:\Users\64254\AppData\Roaming\Typora\typora-user-images\image-20240410204751206.png)
+>
+> ![image-20240410205304622](C:\Users\64254\AppData\Roaming\Typora\typora-user-images\image-20240410205304622.png)
